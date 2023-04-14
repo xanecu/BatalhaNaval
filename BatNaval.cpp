@@ -455,9 +455,8 @@ void instrucao(){
     printf("\t\t /_____/\\__,_/\\__/\\__,_/_/_/ /_/\\__,_/  /_/ |_/\\__,_/ |___/\\__,_/_/   \n\n");
 	printf("\t\t\t\t|\tInstruções do jogo\t|\n\n");
     printf("\t  Batalha naval (BattleShip) é um jogo de tabuleiro para dois jogadores, no qual os mesmos \n\ttêm de adivinhar em que posições estão os navios do oponente.");
-	printf("\n\n\t  Primeiramente você deve colocar os seus navios no tabuleiro à mostra apresentando\n\t");
-	printf("as coordenadas de LINHA e COLUNA, sendo o mesmo preenchido automaticamente com a direção correspondente,\n\t");
-	printf("HORIZONTAL ou VERTICAL\n");
+	printf("\n\n\t  Primeiramente você deve colocar os seus navios no tabuleiro à mostra apresentando as\n\t");
+	printf("coordenadas de LINHA e COLUNA, sendo o mesmo preenchido automaticamente com a direção\n\tcorrespondente, HORIZONTAL ou VERTICAL.\n\t");
 	printf("\n\tREGRAS PARA COLOCAR NAVIOS:\n\t");
 	printf("1 - Não coloque navios em posições lado a lado");
 	printf("\n\t2 - Não sobreponha os navios");
