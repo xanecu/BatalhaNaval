@@ -1,6 +1,5 @@
 # BatalhaNaval/Battleship 🚢
 
-<br/>
 
 ## 1. Menu
 
