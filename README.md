@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/xanecu/BatalhaNaval/main/InstructionsBN.jpg">
 
-## 3. Iniciar(Start) -> Choice (Auto/Manual)
+## 3. Start
 
 <img src="https://raw.githubusercontent.com/xanecu/BatalhaNaval/main/ChoiceBN.jpg">
 
