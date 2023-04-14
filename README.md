@@ -4,7 +4,7 @@
 
 ## 1. Menu
 
-<img src="https://raw.githubusercontent.com/xanecu/xanecu/BatalhaNaval/Menu.jpg">
+<img src="https://raw.githubusercontent.com/xanecu/BatalhaNaval/main/MenuBN.jpg">
 
 ## 2. Instructions
 
